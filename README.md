@@ -1,2 +1,2 @@
 # all-the-news
-Read Me about the assignment
+This is an app that will scrape a news website and then you can add notes to it! 
